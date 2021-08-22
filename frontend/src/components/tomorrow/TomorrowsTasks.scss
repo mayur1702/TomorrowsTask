@@ -1,0 +1,23 @@
+.tomorrows-tasks-container {
+    width: 50%;
+    height: 100%;
+    padding: 0px 15px;
+    box-sizing: border-box;
+    .header {
+        font-size: 18px;
+        border-bottom: 1px solid;
+        margin-bottom: 14px;
+        padding-bottom: 8px;
+    }
+    .added-tasks {
+        .task {
+            background-color: #eee;
+            padding: 8px;
+            margin-bottom: 14px;
+            border-radius: 4px;
+        }
+    }
+    .task-input {
+        width: 100%;
+    }
+}

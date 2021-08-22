@@ -1,0 +1,15 @@
+.todays-task-container {
+    width: calc(50% - 1px);
+    border-right: 1px solid;
+    padding: 0px 15px;
+    box-sizing: border-box;
+    .header {
+        font-size: 18px;
+        border-bottom: 1px solid;
+        margin-bottom: 14px;
+        padding-bottom: 8px;
+    }
+    .form-control-label {
+        height: 40px;
+    }
+}
